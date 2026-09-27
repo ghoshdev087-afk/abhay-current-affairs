@@ -1,0 +1,34 @@
+{
+  "updated": "Automatic update will appear here",
+  "items": [
+    {
+      "category": "India",
+      "title": "Example national current-affairs item",
+      "summary": "Replace this placeholder with a verified original summary generated from an approved source.",
+      "sourceName": "Official source",
+      "sourceUrl": "https://www.india.gov.in/",
+      "date": "YYYY-MM-DD"
+    },
+    {
+      "category": "Odisha",
+      "title": "Example Odisha current-affairs item",
+      "summary": "Use official Odisha government information and retain the source link.",
+      "sourceName": "Government of Odisha",
+      "sourceUrl": "https://odisha.gov.in/",
+      "date": "YYYY-MM-DD"
+    }
+  ],
+  "mcqs": [
+    {
+      "question": "Which section is dedicated to Odisha current affairs?",
+      "options": [
+        "World",
+        "Odisha",
+        "Sports",
+        "Economy"
+      ],
+      "answer": 1,
+      "explanation": "The Odisha section contains Odisha-specific updates."
+    }
+  ]
+}

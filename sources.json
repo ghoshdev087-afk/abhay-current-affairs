@@ -1,0 +1,22 @@
+{
+  "rss_feeds": [
+    {
+      "name": "Press Information Bureau",
+      "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1",
+      "category": "India"
+    }
+  ],
+  "html_sources": [
+    {
+      "name": "Government of Odisha — State News",
+      "url": "https://www.odisha.gov.in/en/state-news",
+      "category": "Odisha"
+    },
+    {
+      "name": "CM Odisha — News & Updates",
+      "url": "https://cm.odisha.gov.in/en/news-updates?page=1",
+      "category": "Odisha"
+    }
+  ],
+  "licensed_api_placeholder": "For World/Economy/Science/Sports, add licensed news APIs or permitted RSS feeds."
+}
