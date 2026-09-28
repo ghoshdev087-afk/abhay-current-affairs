@@ -1,34 +1,87 @@
 {
-  "updated": "Automatic update will appear here",
+  "updated": "28 September 2026, 12:47 AM",
   "items": [
     {
-      "category": "India",
-      "title": "Example national current-affairs item",
-      "summary": "Replace this placeholder with a verified original summary generated from an approved source.",
-      "sourceName": "Official source",
-      "sourceUrl": "https://www.india.gov.in/",
-      "date": "YYYY-MM-DD"
+      "id": "e905f02babc35962",
+      "category": "Odisha",
+      "title": "Shri Mohan Charan Majhi Chief Minister, Odisha",
+      "summary": "Official-source item. Open the source for the full notice or update.",
+      "sourceName": "CM Odisha — News & Updates",
+      "sourceUrl": "https://cm.odisha.gov.in/en",
+      "date": "2026-09-28"
     },
     {
+      "id": "b47225b325d2bd8e",
       "category": "Odisha",
-      "title": "Example Odisha current-affairs item",
-      "summary": "Use official Odisha government information and retain the source link.",
-      "sourceName": "Government of Odisha",
-      "sourceUrl": "https://odisha.gov.in/",
-      "date": "YYYY-MM-DD"
+      "title": "Ministers of State (Ind. Charge)",
+      "summary": "Official-source item. Open the source for the full notice or update.",
+      "sourceName": "CM Odisha — News & Updates",
+      "sourceUrl": "https://cm.odisha.gov.in/en/CMs-team/ministers-of-state",
+      "date": "2026-09-28"
+    },
+    {
+      "id": "176a1035f6a52c00",
+      "category": "Odisha",
+      "title": "Launch of the ‘Sambandh’ Cooperative Membership Mega Campaign, Inauguration and Foundation Stone…",
+      "summary": "Official-source item. Open the source for the full notice or update.",
+      "sourceName": "CM Odisha — News & Updates",
+      "sourceUrl": "https://cm.odisha.gov.in/en/latest-news/launch-sambandh-cooperative-membership-mega-campaign-inauguration-and-foundation-stone",
+      "date": "2026-09-28"
+    },
+    {
+      "id": "a2c68132dd6bcabc",
+      "category": "Odisha",
+      "title": "Heavy Rainfall Due to Deep Depression: Public Safety Given Top Priority, Cooked Food Served to…",
+      "summary": "Official-source item. Open the source for the full notice or update.",
+      "sourceName": "CM Odisha — News & Updates",
+      "sourceUrl": "https://cm.odisha.gov.in/en/latest-news/heavy-rainfall-due-deep-depression-public-safety-given-top-priority-cooked-food-served",
+      "date": "2026-09-28"
+    },
+    {
+      "id": "a0f1f49f89f87808",
+      "category": "Odisha",
+      "title": "Chief Minister Reviews Preparedness to Tackle Heavy Rainfall Caused by Deep Depression, Gives Top…",
+      "summary": "Official-source item. Open the source for the full notice or update.",
+      "sourceName": "CM Odisha — News & Updates",
+      "sourceUrl": "https://cm.odisha.gov.in/en/latest-news/chief-minister-reviews-preparedness-tackle-heavy-rainfall-caused-deep-depression-gives",
+      "date": "2026-09-28"
+    },
+    {
+      "id": "650c7667d9938568",
+      "category": "Odisha",
+      "title": "Revised New Textbooks Distribution Begins Across Schools",
+      "summary": "Official-source item. Open the source for the full notice or update.",
+      "sourceName": "CM Odisha — News & Updates",
+      "sourceUrl": "https://cm.odisha.gov.in/en/latest-news/revised-new-textbooks-distribution-begins-across-schools",
+      "date": "2026-09-28"
+    },
+    {
+      "id": "635a201b6da1f727",
+      "category": "Odisha",
+      "title": "pic.twitter.com/UBzQbKTeyb",
+      "summary": "Official-source item. Open the source for the full notice or update.",
+      "sourceName": "CM Odisha — News & Updates",
+      "sourceUrl": "https://t.co/UBzQbKTeyb",
+      "date": "2026-09-28"
+    },
+    {
+      "id": "e004a773e2b3535a",
+      "category": "Odisha",
+      "title": "Electronics & IT Department, Govt of Odisha. Powered by OCAC",
+      "summary": "Official-source item. Open the source for the full notice or update.",
+      "sourceName": "CM Odisha — News & Updates",
+      "sourceUrl": "https://it.odisha.gov.in/",
+      "date": "2026-09-28"
+    },
+    {
+      "id": "a2aa261f1a896588",
+      "category": "Odisha",
+      "title": "Creative Commons Attribution International license.",
+      "summary": "Official-source item. Open the source for the full notice or update.",
+      "sourceName": "CM Odisha — News & Updates",
+      "sourceUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "date": "2026-09-28"
     }
   ],
-  "mcqs": [
-    {
-      "question": "Which section is dedicated to Odisha current affairs?",
-      "options": [
-        "World",
-        "Odisha",
-        "Sports",
-        "Economy"
-      ],
-      "answer": 1,
-      "explanation": "The Odisha section contains Odisha-specific updates."
-    }
-  ]
+  "mcqs": []
 }
